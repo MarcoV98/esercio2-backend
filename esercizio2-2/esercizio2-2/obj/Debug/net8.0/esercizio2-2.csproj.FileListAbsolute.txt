@@ -1,0 +1,14 @@
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\bin\Debug\net8.0\esercizio2-2.exe
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\bin\Debug\net8.0\esercizio2-2.deps.json
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\bin\Debug\net8.0\esercizio2-2.runtimeconfig.json
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\bin\Debug\net8.0\esercizio2-2.dll
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\bin\Debug\net8.0\esercizio2-2.pdb
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.AssemblyInfoInputs.cache
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.AssemblyInfo.cs
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.csproj.CoreCompileInputs.cache
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.dll
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\refint\esercizio2-2.dll
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.pdb
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\esercizio2-2.genruntimeconfig.cache
+C:\Users\Marco Vitale.DESKTOP-PD7VIV6\Desktop\backend\esercizio2-2\esercizio2-2\obj\Debug\net8.0\ref\esercizio2-2.dll
